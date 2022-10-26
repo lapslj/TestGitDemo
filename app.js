@@ -1,5 +1,5 @@
 function hithere(){
-    alert("hello!");
+    alert("hello, you're looking purple!");
 }
 
 document.addEventListener("click",hithere)
